@@ -1,2 +1,1 @@
-# tw
 Tribal Wars scripts
