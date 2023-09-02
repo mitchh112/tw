@@ -1,1 +1,9 @@
-console.log("Test");
+JavaScript:
+
+myScript();
+
+
+function myScript() {
+   alert("Testing");
+   console.log("Test");
+}
